@@ -1,5 +1,6 @@
 # Hi there, I'm Mattia Piazzolla 👋
 
+<img src="https://static.wixstatic.com/media/85a758_c5a7f51c2d4d47c9860977d446cbc811~mv2.jpg" width="300" alt="Mattia Piazzolla">
 
 ## 💻 About Me
 
